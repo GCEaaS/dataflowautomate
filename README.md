@@ -7,7 +7,7 @@ Script is written for Ubuntu 16.04
 
 To use
 sudo apt-get install git
-gitpull 
+git pull https://github.com/Twitch0815/dataflowautomate.git
 cd dataflowmaster
 chmod +x ./setup.sh
 ./setup.sh
