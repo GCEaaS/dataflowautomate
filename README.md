@@ -6,6 +6,7 @@ This will automate setup for the following guide https://github.com/agmsb/gcp-da
 Script is written for Ubuntu 16.04
 
 To use
+
 sudo apt-get install git
 
 git pull https://github.com/Twitch0815/dataflowautomate.git
